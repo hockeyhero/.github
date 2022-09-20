@@ -6,6 +6,9 @@ Welcome to HockeyHero. The instructions below will describe how you can contribu
 
 ## Development Process
 
+### Philosophy
+The project was generated us [jhipster](https://www.jhipster.tech/). In order to leverage work from that development team, in order to keep the project upgradable, any major functionality will be farmed out to other services; that's why Nearest exists. 
+
 ### Git and GitHub
 The development process will use GitHub (and Git) for Project Management, Issue/Bug Management , Wiki, CI/CD and of course Source Control. GitHub is feature rich so there should be no reason to step outside Git/GitHub. 
 
